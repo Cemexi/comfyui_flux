@@ -31,6 +31,12 @@ FLUX_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/714655"
     "https://civitai.com/api/download/models/715427"
+    "https://civitai.com/api/download/models/733658"
+    "https://civitai.com/api/download/models/719650"
+    "https://civitai.com/api/download/models/721498"
+    "https://civitai.com/api/download/models/722870"
+    "https://civitai.com/api/download/models/716799"
+    "https://civitai.com/api/download/models/706528"
     #"https://civitai.com/api/download/models/16576"
 )
 
